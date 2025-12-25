@@ -1,3 +1,9 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/koderianID/Blogger?style=social)](https://github.com/koderianID/Blogger/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/koderianID/Blogger)](https://github.com/koderianID/Blogger/commits/main)
+[![Website](https://img.shields.io/badge/Website-koderian.my.id-blue)](https://koderian.my.id)
+[![Support](https://img.shields.io/badge/Support-Donate-orange)](https://koderian.my.id)
+
 # Blogger
 
 An actively maintained collection of **Blogger templates, widgets, and custom tools**.  
